@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.703a5a40.css",
+    "main.js": "/static/js/main.0c4c33d5.js",
+    "static/js/787.67977978.chunk.js": "/static/js/787.67977978.chunk.js",
+    "static/media/vibrating-headphone.png": "/static/media/vibrating-headphone.064f07ccb05867b51829.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/search-icon.svg": "/static/media/search-icon.5f91d8b6f54033937f2abf05edb1e542.svg",
+    "static/media/RightArrow.svg": "/static/media/RightArrow.493bc99e5d27619b258049136301defe.svg",
+    "static/media/LeftArrow.svg": "/static/media/LeftArrow.349fab4a37522765d67ded09d6524e46.svg",
+    "index.html": "/index.html",
+    "main.703a5a40.css.map": "/static/css/main.703a5a40.css.map",
+    "main.0c4c33d5.js.map": "/static/js/main.0c4c33d5.js.map",
+    "787.67977978.chunk.js.map": "/static/js/787.67977978.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.703a5a40.css",
+    "static/js/main.0c4c33d5.js"
+  ]
+}
